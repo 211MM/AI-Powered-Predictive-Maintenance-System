@@ -13,4 +13,4 @@ Together, these models predict equipment failures and estimate the **Remaining U
 ---
 
 ## 🔗 Project Repository
-👉 [GitHub Project Link](https://github.com/DrahcirSnave/Predictive-Maintenance-Capstone/tree/main)
+👉 [GitHub Project Link](https://github.com/DrahcirSnave/Predictive-Maintenance-Capstone-2025)
